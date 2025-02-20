@@ -1,4 +1,5 @@
 Project Summary
+
 In the competitive world of e-commerce, setting the right price for your products is crucial. Online sellers face the challenge of determining the optimal price to attract customers while ensuring profitability. The "Price Prediction for Online Sellers" project is a data-driven solution that combines machine learning techniques and predictive analytics to help online sellers make informed pricing decisions.
 
 Key Objectives:
